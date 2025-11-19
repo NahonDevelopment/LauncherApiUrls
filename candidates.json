@@ -1,0 +1,26 @@
+[
+  {
+    "title": "HAProxy (TEST)",
+    "url": "https://halauncher.mtechlab.dev"
+  },
+  {
+    "title": "Основная сеть (Финляндия)",
+    "url": "https://launcher.nahon.top"
+  },
+  {
+    "title": "Резервная сеть (Финляндия 2)",
+    "url": "http://65.21.126.170:1370"
+  },
+  {
+    "title": "Резервная сеть (Москва)",
+    "url": "https://launcher.nahon.ru"
+  },
+  {
+    "title": "Резервная сеть (Москва 2)",
+    "url": "http://103.88.241.9:1370"
+  },
+  {
+    "title": "Резервная сеть (Москва 3)",
+    "url": "https://rulauncher.nahon.top"
+  }
+]
