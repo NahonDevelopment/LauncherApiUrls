@@ -1,22 +1,22 @@
 [
   {
-    "title": "Основная сеть (Финляндия)",
-    "url": "http://65.21.126.170:1370"
-  },
-  {
-    "title": "Резервная сеть (Финляндия)",
-    "url": "https://launcher.nahon.top"
-  },
-  {
-    "title": "HAProxy Москва",
+    "title": "Москва",
     "url": "https://halauncher.nahon.ru"
   },
   {
-    "title": "HAProxy Москва 2",
+    "title": "Москва 2",
     "url": "https://лаунчер.нахон.рф"
   },
   {
-    "title": "HAProxy Москва 3",
+    "title": "Москва 3",
     "url": "http://103.88.241.9:1390"
+  },
+  {
+    "title": "Финляндия",
+    "url": "http://65.21.126.170:1370"
+  },
+  {
+    "title": "Финляндия 2",
+    "url": "https://launcher.nahon.top"
   }
 ]
